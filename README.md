@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on CELEPAR
+- 🔭 I’m currently working on Information and Communication Technology Company of Paraná (Celepar)
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate with comunity
-- 🤔 I’m looking for help with web develpment enthusiast 
-- 📫 How to reach me: ygorrmuller@gmail.com
+- 🤔 I'm looking to self develop and help the developer community.
+- 📫 How to reach me: linkedin.com/in/ygor-muller-6b5a471a1
 - ⚡ Fun fact: old but gold
 
